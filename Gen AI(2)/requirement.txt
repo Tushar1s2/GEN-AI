@@ -1,0 +1,33 @@
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Ollama local LLM and embeddings
+langchain-ollama
+ollama
+
+# Vector database
+faiss-cpu
+
+# Document loading
+pypdf
+python-docx
+unstructured
+
+# Environment variables
+python-dotenv
+
+# API / backend (optional, useful for deployment)
+fastapi
+uvicorn
+
+# Frontend (optional, for a web-based RAG chatbot)
+streamlit
+
+# Data validation and structured outputs
+pydantic
+
+# HTTP requests
+requests
